@@ -1,0 +1,139 @@
+.container-fluid {
+    padding: 7% 15% 0;
+  }
+  
+  .body {
+    text-align: center;
+    font-family: "Montserrat";
+  }
+  
+  /* TitleSection */
+  .big-heading {
+    font-size: 2.5rem;
+    text-align: center;
+    line-height: 1.5;
+    font-family: "Montserrat-Bold";
+  }
+  
+  #bt {
+    background-color: rgba(5, 4, 4, 0.815);
+  }
+
+  #title {
+    background-image: linear-gradient(135deg, transparent 0%, transparent 64%,rgba(8, 13, 29, 0.6) 64%,transparent 63%,rgb(22, 28, 53) 63%, rgb(12, 21, 58) 100%),linear-gradient(90deg, rgba(0, 0, 0, 0.281),rgba(7, 25, 26, 0.432)); 
+    /* background-image: ; */
+    color: #fff;
+    padding-bottom: 7%;
+    /* height: 40vh; */
+  }
+  
+  #title .container-fluid {
+    padding: 3% 15% 7%;
+  }
+  
+  
+  /* navigationsection */
+  .navbar-heading {
+    font-size: 1.5rem;
+    font-family: "Ubuntu";
+    padding: 0 0;
+  }
+  
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .nav-item {
+    color: #fff;
+    padding: 0 18px;
+  }
+  
+  .description {
+    font-size: 2.5rem;
+    font-family: "Montserrat";
+    text-align: left;
+    padding-bottom: 7%;
+  }
+  
+  .m-img {
+    right: 30%;
+    height: 33vh;
+    width: 50vh;
+  }
+  
+  /* testimonialsection */
+  #testimonials {
+    text-align: center;
+    z-index: 1;
+  }
+  
+  .testimonial-text {
+    font-size: 2.5rem;
+    padding-bottom: 7%;
+    line-height: 1.5;
+  }
+  
+  .carousel-item {
+    padding: 7% 15%;
+  }
+  
+  .testimonial-image {
+    width: 40%;
+    border-radius: 100%;
+  }
+  
+  #press {
+    padding: 100px ;
+    color: white;
+    text-align: center;
+    padding-bottom: 7%;
+  }
+  
+  .press-logo {
+    width: 10%;
+    margin: 20px 15px 10px;
+  }
+  
+  /* footerSection */
+  #footer {
+   /*background-color: #0779e4;*/
+   background-image: linear-gradient(135deg, transparent 0%, transparent 17%,rgba(66, 85, 114, 0.6) 17%, rgba(134, 149, 170, 0.6) 59%,transparent 59%, transparent 64%,rgba(8, 13, 29, 0.6) 64%, rgba(81, 119, 119, 0.6) 100%),linear-gradient(45deg, transparent 0%, transparent 2%,rgb(49, 65, 88) 2%, rgb(87, 146, 234) 46%,rgb(114, 178, 239) 46%, rgb(114, 178, 239) 54%,transparent 54%, transparent 63%,rgb(102, 113, 155) 63%, rgb(79, 88, 124) 100%),linear-gradient(90deg, rgba(255, 255, 255, 0.445),rgb(255,255,255));
+   
+    padding: 7% 15%;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .social-icon {
+    margin: 20px 10px;
+  }
+  
+  /* Customer-service */
+  /*feature-box section*/
+  #features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    text-align: center;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+  }
+  
+  .feature-box {
+    padding: 5%;
+  }
+  
+  .icon {
+    color: #4B0082;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover {
+    color: #4B0082;
+  }
+
+  #footer:hover{
+    background-color: darkslateblue;
+  }
